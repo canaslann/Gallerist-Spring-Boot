@@ -19,7 +19,7 @@ This project is a car gallery management REST API built with Spring Boot. Users 
 - Spring Boot
 - Spring Security & JWT
 - Spring Data JPA (Hibernate)
-- MySQL / PostgreSQL
+- MySQL
 - Lombok
 - Maven
 
