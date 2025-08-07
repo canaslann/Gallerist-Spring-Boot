@@ -41,10 +41,10 @@ This project is a car gallery management REST API built with Spring Boot. Users 
   spring.datasource.password=yourpassword
   jwt.secret=your-jwt-secret
 
-   4.Run the application:
+4.Run the application:
   mvn spring-boot:run
   
-
+---
 
 🔐 Authentication (JWT)
 After login, you'll receive a JWT token. To access secured endpoints, send it in the request header like this:
